@@ -6,9 +6,7 @@ Folder: https://data.world/data-society/major-speeches-by-donald-trump
 
 Content from site:
 
-56 Major Speeches by Donald Trump (June 2015 - November 2016).
-
-All of Trump's Speeches from June 2015 to November 9, 2016
+## 56 Major Speeches by Donald Trump (June 2015 - November 2016).
 
 Missing line breaks and other formatting, but should work well for most text analysis purposes. Enjoy.
 
