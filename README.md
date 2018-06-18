@@ -22,3 +22,7 @@ Reference: https://www.tidytextmining.com/
 
 ## 1. Trump Speech
 packages used: tidytext, ggplot2
+
+## 2. Word Realtionships (Trump speech)
+packages used: tidytext, ggplot2
+Bi-gram analysis
