@@ -34,3 +34,6 @@ Sentiment lexicons: AFINN, NRC, BING
 ## 4. TF-IDF Analysis (Trump speech)
 packages used: tidytext, ggplot2
 zipf's law
+
+## 5. UFO Comments Data Analysis
+WordCloud creation for Unigram and Bigram
