@@ -41,6 +41,6 @@ WordCloud creation for Unigram and Bigram
 ## 6. SMS Classification 
 Kaggle competition as well as Class Competition
 
-## 6. Model Agnostic
+## 7. Model Agnostic
 Understanding the reviews using LIME
 Model Interpretability
