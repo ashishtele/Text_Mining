@@ -44,3 +44,6 @@ Kaggle competition as well as Class Competition
 ## 7. Model Agnostic
 Understanding the reviews using LIME
 Model Interpretability
+
+## 8. Ames Dalex
+Model Agnostic using Dalex
